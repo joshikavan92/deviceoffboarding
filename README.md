@@ -1,4 +1,4 @@
-# ArtOfDeviceOffboarding
+# DeviceOffboarding
 Presented at MacSysAdmin 2023. 
 
 This repository contains scripts for managing macOS devices using Jamf Pro presented at Masters of Mac events. 
