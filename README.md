@@ -34,7 +34,7 @@ Use the scripts from attachment for generating similar messages & Prompts:
 1. setExpiryDate.sh
 <img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/16d888e0-6ad3-4d42-a4d0-07599e9563c3">
 
-<img alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/eb32a302-09a5-4bee-9610-90e150c8380b"> 
+<img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/c5594a34-c2ec-4f1e-b46c-6e57d89d2f63"> 
 
 
 <img width="532" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/14470196-a6b3-4970-99a3-782822d5d2bc">
