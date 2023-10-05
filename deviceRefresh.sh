@@ -37,13 +37,23 @@ if [ "$buttonPressed" == "0" ]; then
     if [ "$buttonPressed" == "0" ]; then
 
         # Wipe the system
-        # Use instructions from https://www.jamf.com/blog/howto-erase-all-content-and-settings-macos-redeployment/#:~:text=First%2C%20to%20send%20the%20EraseDevice,%3E%20Management%20Commands%20%3E%20Wipe%20Computer. to identify system ID and wipe it.
-
-    fi
-# If the See Instructions button was pressed
-elif [ "$buttonPressed" == "2" ]; then
-
-    # Open the instructions document (replace the path with the actual path to your instructions document)
-    open /path/to/instructions.pdf
-
+        # Option 1: Wipe the macOS Automatically without prompting user
+        # More information can be found here: https://www.jamf.com/blog/howto-erase-all-content-and-settings-macos-redeployment/ 
+        # Wipe the system at the end of the day. Use wipeDevice.sh and create a policy with custome trigger as 'wipe' 
+        # /usr/local/jamf/bin/jamf policy -event wipe
+        
+        
+        
+        # Option 2: Wipe the macOS using Erase Assistant, making sure user sign out of Apple ID. 
+        # If you want to prompt the User to Erase the Device themselves, you can add the instruction of same in instruction document. 
+        open /System/Library/CoreServices/Erase\ Assistant.app 
+    
+        fi
+        
+        # If the See Instructions button was pressed
+        elif [ "$buttonPressed" == "2" ]; then
+        
+            # Open the instructions document (replace the path with the actual path to your instructions document)
+            open /path/to/instructions.pdf
+        
 fi
