@@ -68,7 +68,7 @@ done
 
 # Option 1: Wipe the macOS Automatically without prompting user
 # More information can be found here: https://www.jamf.com/blog/howto-erase-all-content-and-settings-macos-redeployment/ 
-# Wipe the system at the end of the day
+# Wipe the system at the end of the day. Use wipeDevice.sh and create a policy with custome trigger as 'wipe' 
 # /usr/local/jamf/bin/jamf policy -event wipe
 
 
