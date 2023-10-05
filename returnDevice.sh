@@ -66,5 +66,13 @@ for (( i = $(date +%H); i <= wipeTime; i++ )); do
 
 done
 
+# Option 1: Wipe the macOS Automatically without prompting user
+# More information can be found here: https://www.jamf.com/blog/howto-erase-all-content-and-settings-macos-redeployment/ 
 # Wipe the system at the end of the day
-/usr/local/jamf/bin/jamf policy -event wipe
+# /usr/local/jamf/bin/jamf policy -event wipe
+
+
+
+# Option 1: Wipe the macOS using Erase Assistant, making sure user sign out of Apple ID. 
+# If you want to prompt the User to Erase the Device themselves, you can add the instruction of same in instruction document. 
+open /System/Library/CoreServices/Erase\ Assistant.app 
