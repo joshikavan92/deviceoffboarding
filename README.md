@@ -47,5 +47,13 @@ Use the scripts from attachment for generating similar messages & Prompts:
 
 <img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/d2b2341f-995f-45e9-b5e7-42bf80f06214"> 
 
-3.  
+3. returnDevice.sh
+
+<img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/a6cc4999-77d1-4632-9352-574f99bd4236"> 
+
+<img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/90cb1ff1-887c-4813-95da-ecb06382695b"> 
+
+<img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/a2d4f5e8-2158-4a84-a662-7e7774a2c167"> 
+
+4. 
 
