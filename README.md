@@ -31,9 +31,10 @@ These scripts are provided as is, without warranty of any kind. The author is no
 
 Use the scripts from attachment for generating similar messages & Prompts:
 
-1. 
+1. setExpiryDate.sh
 <img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/16d888e0-6ad3-4d42-a4d0-07599e9563c3">
-![image](https://github.com/joshikavan92/deviceoffboarding/assets/3684384/a2057383-4412-44d6-8e56-14da38c5fff5)
+![image](https://github.com/joshikavan92/deviceoffboarding/assets/3684384/bda7bb1b-9322-41c1-9b16-d0817a1ca12a)
+
 <img width="532" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/14470196-a6b3-4970-99a3-782822d5d2bc">
  <img width="532" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/718f0563-1bc2-4e6f-aa0e-60002585983f">
 
