@@ -57,10 +57,12 @@ Use the scripts from attachment for generating similar messages & Prompts:
 <img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/a2d4f5e8-2158-4a84-a662-7e7774a2c167"> 
 
 
-Below scripts can be used to do manual prompt testing with your desired time and values.
-3.1 returnDevicePrompt1.sh
-3.2 returnDevicePrompt2.sh
-3.3 returnDevicePrompt3.sh 
+    Below scripts can be used to do manual prompt testing with your desired time and values.
+    3.1 returnDevicePrompt1.sh
+
+    3.2 returnDevicePrompt2.sh
+
+    3.3 returnDevicePrompt3.sh 
 
 4. deviceRefresh.sh
 
