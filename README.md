@@ -28,3 +28,13 @@ For any issues or suggestions, please reach out to the author.
 
 Disclaimer
 These scripts are provided as is, without warranty of any kind. The author is not responsible for any damage or data loss that may occur from using these scripts. Always test scripts in a controlled environment before deploying them to production.
+
+Use the scripts from attachment for generating similar messages & Prompts:
+
+1. 
+<img width="525" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/16d888e0-6ad3-4d42-a4d0-07599e9563c3">
+![image](https://github.com/joshikavan92/deviceoffboarding/assets/3684384/a2057383-4412-44d6-8e56-14da38c5fff5)
+<img width="532" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/14470196-a6b3-4970-99a3-782822d5d2bc">
+ <img width="532" alt="image" src="https://github.com/joshikavan92/deviceoffboarding/assets/3684384/718f0563-1bc2-4e6f-aa0e-60002585983f">
+
+
