@@ -21,10 +21,11 @@ To use these scripts, you need to:
 
 Download the scripts.
 Modify them as needed to suit your specific environment and requirements. For example, you may need to replace placeholder text or paths with actual content.
+
 Implement the scripts in your Jamf Pro instance, typically as policies or configuration profiles.
 Please note that the scripts may need to be tested and modified before being deployed in a production environment. Be sure to follow best practices for scripting and Jamf Pro management to ensure that the scripts work as expected and do not cause unintended side effects.
 
-For any issues or suggestions, please reach out to the author.
+For any issues or suggestions, please reach out to the Kavan (kavan.joshi@jamf.com, Slack: MacAdmins > Kavan Joshi)
 
 Disclaimer
 These scripts are provided as is, without warranty of any kind. The author is not responsible for any damage or data loss that may occur from using these scripts. Always test scripts in a controlled environment before deploying them to production.
