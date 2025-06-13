@@ -11,8 +11,8 @@ fi
 
 # Initialize variables with URL, username, and password for Jamf API
 JAMFURL="https://k1demo.jamfcloud.com"
-JAMFUSER="jamfadmin_new"
-JAMFPASS="moke42yk"
+JAMFUSER=""
+JAMFPASS=""
 
 # Create base64-encoded username:password string for basic authentication
 BASIC_AUTH=$(echo -n "$JAMFUSER:$JAMFPASS" | base64)
